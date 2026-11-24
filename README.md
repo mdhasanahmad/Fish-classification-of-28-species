@@ -124,65 +124,7 @@ The project is designed around modern deep learning and computer vision technolo
 - Matplotlib
 - Scikit-learn
 
-## 🚀 Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd YOUR_REPOSITORY
-```
-
-Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-## ▶️ Usage
-
-Once the source code, trained model, and dataset are available, the framework can be executed using the provided training and evaluation scripts.
-
-Example:
-
-```bash
-python train.py
-```
-
-For model evaluation:
-
-```bash
-python test.py
-```
-
-**Note:** Update these commands according to the actual filenames and execution structure of the repository.
-
-## 📁 Repository Structure
-
-```text
-ConvNeXt-GCN-Freshwater-Fish-Recognition/
-│
-├── dataset/
-│   └── README.md
-│
-├── models/
-│   ├── convnext_gcn.py
-│   └── graph_generation.py
-│
-├── figures/
-│   ├── figure6.png
-│   └── fishWorkflow.png
-│
-├── train.py
-├── test.py
-├── requirements.txt
-└── README.md
-```
 
 *The structure above illustrates a suggested organization and should be adjusted to match the actual repository.*
 
@@ -203,30 +145,3 @@ This research explores the integration of convolutional neural networks and grap
 
 The study also contributes to the development of computer vision research focused on the freshwater fish diversity of Bangladesh.
 
-## 📄 Publication
-
-**Paper Title:** A ConvNeXt-GCN Based Deep Learning Framework for Recognizing Freshwater Fish Species in Bangladesh.
-
-**Authors:** [Add author names]
-
-**Journal/Conference:** [Add publication venue]
-
-**DOI:** [Add DOI when available]
-
-## 📜 License
-
-The licensing information for the source code and dataset will be provided here.
-
-## 📬 Contact
-
-For research collaboration, technical questions, or further information regarding this work, please contact:
-
-**MD Hasan Ahmad**
-
-GitHub: [@mdhasanahmad](https://github.com/mdhasanahmad)
-
----
-
-<p align="center">
-  <b>Advancing Intelligent Fish Recognition Through Hybrid Deep Learning and Graph-Based Learning.</b>
-</p>
