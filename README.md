@@ -69,7 +69,7 @@ The dataset includes species such as Aair, Black Roi, Boal, Chapila, Common Carp
 
 **Figure 1. Representative preprocessed image samples of the 28 freshwater fish species included in the collected dataset.**
 
-![Samples of 28 Freshwater Fish Species](<Figures/sample of each image.png>)
+![Samples of 28 Freshwater Fish Species](https://github.com/mdhasanahmad/Fish-classification-of-28-species/raw/main/Figures/sample%20of%20each%20image.png)
 
 ## 🧠 Proposed Methodology
 
