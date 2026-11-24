@@ -61,11 +61,11 @@ The overall proposed architecture combines convolutional feature extraction with
 
 **Proposed ConvNeXt-GCN Framework:**
 
-![ConvNeXt-GCN Architecture](figure6.png)
+![ConvNeXt-GCN Architecture](Figures/figure6.png)
 
 **Complete Research Workflow:**
 
-![Research Workflow](fishWorkflow.png)
+![Research Workflow](Figures/fishWorkflow.png)
 
 ## 📊 Dataset Description
 
